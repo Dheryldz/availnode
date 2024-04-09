@@ -1,0 +1,22 @@
+{
+  "name": "availnode",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "avail",
+    "web3",
+    "beta",
+    "node"
+  ],
+  "author": "dheryldz",
+  "license": "ISC",
+  "dependencies": {
+    "avail": "^2.0.2",
+    "v8flags": "^4.0.1",
+    "video-multi-uploader": "^0.0.1"
+  }
+}
